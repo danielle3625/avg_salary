@@ -8,4 +8,4 @@ export_key = identification info and what avg salary result should be to compare
 
 export_noformat 1 and 2 = examples of what the output looks like straight from our software. note the column headers are not in row 1
 
-samp_avg_salary = excel version of export_format = use to compare my program is working correctly
+samp_avg_salary = excel calculator using salary info for person 'excel_format' = use this to compare my program is working correctly 

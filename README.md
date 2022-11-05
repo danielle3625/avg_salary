@@ -6,6 +6,9 @@ Compute average salary in accordance to [LA R.S. 11:2031](http://www.legis.la.go
 
 ## NOTES
 
+* I first tried to use the .py to achieve my task, but quickly realized this method was not the best. I am leaving it up in case I need to refer back to it later.
+* the .ipynb is the file to look at for code up to this point - #comments are to show my thought process and learning with cell output verification, I know it is not streamlined for efficiency at this time
+
 * note that each of our members gets paid from both the parish and the state (two separate direct deposits)
   * we must first sum the parish + state = total monthly salary, before executing rolling_60 average test
   * note that we must apply a salary cap test, as outlined in the statute above. 
